@@ -1,0 +1,6 @@
+*.dwl
+*.dwl2
+*.bak
+*.dxf
+
+.venv
